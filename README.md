@@ -7,7 +7,7 @@
 
 • [Shir Kochi](https://github.com/shirkorchi/GroupProject1)
 
-• [Kaden Williams]()
+• [Kaden Williams](https://github.com/kadenwilliams1/21479_-8)
 
 • [Donovan Vanderpool](https://github.com/donovanv2/MIST4610/)
 
