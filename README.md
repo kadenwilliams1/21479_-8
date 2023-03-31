@@ -1,7 +1,7 @@
 # Modeling Instagram Data
 
 # Group Members (21479_8)
-• Hannah Kelly
+• [Hannah Kelly] (https://github.com/hannahkelly98765/MIST-4610)
 
 • [Emma Dolson](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1)
 
