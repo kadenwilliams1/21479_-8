@@ -52,9 +52,9 @@ TP_Q10: This query returns the number of shares for each content type. A manager
 ![Screen Shot 2023-03-30 at 11 02 51 PM](https://user-images.githubusercontent.com/128401988/229012597-cf0cbdfa-f5da-46da-b5d9-66b192682852.png)
 
 # Query Matrix
-[Query Matrix.pdf](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject1/files/11117822/Query.Matrix.pdf)
-![Screen Shot 2023-03-30 at 11 15 38 PM](https://user-images.githubusercontent.com/128401988/229013936-f2de64e6-3d0b-4abb-a739-bc9479cf21f6.png)
+[Query Matrix.pdf](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject1/files/11124917/Query.Matrix.pdf)
 
+![Screen Shot 2023-03-31 at 2 28 49 PM](https://user-images.githubusercontent.com/128401988/229201894-21c90eaf-5bf3-4fa3-8654-3159203245b8.png)
 
 # Database information
 - Name: ns_21479_8
